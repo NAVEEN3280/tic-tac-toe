@@ -31,6 +31,7 @@ function deriveGameBoard(gameTurns) {
   }
   return gameBoard;
 }
+
 function driveWinner(gameBoard, players) {
   let winner;
 
